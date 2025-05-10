@@ -29,11 +29,13 @@ body {
 }
 
 .clock h1 {
+    color:azure;
     font-size: 3.5rem;
     font-weight: 600;
 }
 
 .clock span {
+    color:azure;
     position: relative;
     top: -9%;
     margin-left: 12px;
